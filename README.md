@@ -74,3 +74,4 @@ In this exercise you'll be locking down our API using JWT's.
 
 ### Testing
 THe other resources don't have any test, go ahead and write some!
+# ceremony-api
